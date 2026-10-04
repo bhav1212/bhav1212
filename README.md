@@ -21,11 +21,11 @@
 
 I'm **Team Lead Data & Development at the Joint Innovation Hub, working at Fraunhofer ISI**. My work connects generative AI, retrieval, transparent multi-agent systems, and technology intelligence.
 
-- **[Vorschau](https://bhaveshjain.com/#work)** · In development  
+- **[Vorschau](https://bhaveshjain.com/#work)** · In development<br>
   A seven-agent foresight workflow that turns research signals into strategic briefings for small and mid-sized companies.
-- **[JIH Trend Radar](https://jih-trendradar.eu/)** · Research platform  
+- **[JIH Trend Radar](https://jih-trendradar.eu/)** · Research platform<br>
   Research and patent signals, bibliometric analysis, and language models for exploring emerging technologies.
-- **[Transparent multi-agent systems](https://doi.org/10.1007/978-3-032-29586-6_24)** · Published research  
+- **[Transparent multi-agent systems](https://doi.org/10.1007/978-3-032-29586-6_24)** · Published research<br>
   Inspectable enterprise AI interfaces and multi-agent retrieval-augmented generation.
 
 **Public code:** [Chatbot-API](https://github.com/bhav1212/Chatbot-API) — a FastAPI starting design with user/session-scoped chat memory and explicit session cleanup.
