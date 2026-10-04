@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="480" viewBox="0 0 1000 480" role="img" aria-labelledby="title desc">
+<title id="title">Bhavesh Jain — research, made useful</title>
+<desc id="desc">An ASCII portrait of Bhavesh alongside his current role, AI research focus, learning areas, and contact links. Data Scientist and Team Lead Data and Development at Joint Innovation Hub, Fraunhofer ISI, Heilbronn.</desc>
+<style>text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}.cursor{animation:blink 1.2s steps(1) 8}.intro{animation:appear .65s ease-out}@keyframes blink{50%{opacity:0}}@keyframes appear{from{opacity:.4;transform:translateY(3px)}to{opacity:1;transform:translateY(0)}}@media(prefers-reduced-motion:reduce){.cursor,.intro{animation:none}}</style>
+<rect width="1000" height="480" rx="14" fill="#0d1117"/>
+<path d="M0 44H1000M450 44V480" fill="none" stroke="#27323e"/>
+<circle cx="26" cy="22" r="4" fill="#79cdb8"/><circle cx="42" cy="22" r="4" fill="#5c6977"/><circle cx="58" cy="22" r="4" fill="#5c6977"/>
+<text x="92" y="27" font-size="12" fill="#a6b3c2">bhav1212@github</text>
+<text x="968" y="27" text-anchor="end" font-size="12" fill="#79cdb8">research, made useful</text>
+<text x="28" y="78" fill="#79cdb8" font-size="12">$ ./portrait</text>
+<text x="35" y="102.0" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">.....                                                                     </text>
+<text x="35" y="107.8" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">.....                                                                     </text>
+<text x="35" y="113.6" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">.....                                                                     </text>
+<text x="35" y="119.4" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">......                                                                    </text>
+<text x="35" y="125.2" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">......                                                                    </text>
+<text x="35" y="131.0" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">......                                                                    </text>
+<text x="35" y="136.8" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">......                         -===--:....                                </text>
+<text x="35" y="142.6" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">.......                      -*@@@@@@@@%%%#=:.                            </text>
+<text x="35" y="148.4" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">.......                   .-#@@@@@@@@@@@@@@@#+.                           </text>
+<text x="35" y="154.2" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">......                  -#@@@@@@@@@@@@@@@@@@@@%*-.                        </text>
+<text x="35" y="160.0" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">.......                -@@@@@@@@@@@@@@@@@@@@@@@@@#:                       </text>
+<text x="35" y="165.8" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">.......               :%@@@@@@@@@@@@@@@%%%@@@@@@@@#.                      </text>
+<text x="35" y="171.6" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">.......               *@@@@@@@@@@@@%#*+-:--=+#@@@@@#.                     </text>
+<text x="35" y="177.4" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">........             :@@@@@@@@@@@%#*+=-:::---=#@@@@@+                     </text>
+<text x="35" y="183.2" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">........             =@@@@@@@@%#+=-----:-=====+*@@@@#.                    </text>
+<text x="35" y="189.0" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">........           . *@@@@%%@%%%%#*+==+*#%#+++=-#@@%-                     </text>
+<text x="35" y="194.8" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">........           . *@@@#+#####%%%#+-+#%##*+==-+@@*.  .                  </text>
+<text x="35" y="200.6" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">........             +@@@++##%@%#%%%+-=*%%%%*+=-=@@= ....                 </text>
+<text x="35" y="206.4" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">........             .%@@*+###%#**##=:--=+++=----%#:......                </text>
+<text x="35" y="212.2" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">........             .+@@*=++====**=:.:--:::..:::##.......                </text>
+<text x="35" y="218.0" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">...................   .%@#==+=--+#**=-=+=++=--:::*=.......                </text>
+<text x="35" y="223.8" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">....................   +@%++**++#%@@%###+=*#++=--*:.........              </text>
+<text x="35" y="229.6" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">...................... :#%**###@@@@@%###**#%*===+*:.........              </text>
+<text x="35" y="235.4" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">........................=#%###*%@@@%%#******++++*-..........              </text>
+<text x="35" y="241.2" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">..........................*%%%#####%###*+===**#%+...........              </text>
+<text x="35" y="247.0" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">...........................#@%%%%####%#*++=+#%@*....................      </text>
+<text x="35" y="252.8" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">...........................:#%%@@%##**+++**%%@*.....................      </text>
+<text x="35" y="258.6" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">............................-#@@@@@@@%%@@@@@@#-.....................      </text>
+<text x="35" y="264.4" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">............................-*#@@@@@@@@@@@@%*=-:. ......................  </text>
+<text x="35" y="270.2" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">.......................:::=#+**##%%@@@@@@%#+=--=-     ................... </text>
+<text x="35" y="276.0" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">....................::-:=:+%**##########**++=---           ............   </text>
+<text x="35" y="281.8" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">..................::::::--:*@%%%%%####****+++=:                  ........ </text>
+<text x="35" y="287.6" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">...................::::.:::.-*%@@%%#####***+-.                       .... </text>
+<text x="35" y="293.4" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">.........      ...............:-=+***++=-:                            .   </text>
+<text x="35" y="299.2" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">.......            ............                                        .  </text>
+<text x="35" y="305.0" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">...:..                     .                                              </text>
+<text x="35" y="310.8" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">..:.                                                                      </text>
+<text x="35" y="316.6" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">.:.     .                                                                 </text>
+<text x="35" y="322.4" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">:..  .  ..                                                                </text>
+<text x="35" y="328.2" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">...  .  ..                                                                </text>
+<text x="35" y="334.0" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">..  ..  .:                                                                </text>
+<text x="35" y="339.8" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">..  ..  .:                                                                </text>
+<text x="35" y="345.6" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">.. .... .:....                                                          . </text>
+<text x="35" y="351.4" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">:  ......:.....                                                         . </text>
+<text x="35" y="357.2" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">:  .....::.......                                                       . </text>
+<text x="35" y="363.0" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">.  ..:..::........                                                ..   .: </text>
+<text x="35" y="368.8" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">.  .....-::::::....                                             .... . .: </text>
+<text x="35" y="374.6" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">.  ....:--:::::.....                                            .......:: </text>
+<text x="35" y="380.4" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">.  ....:----:::::...                                            ..:-:..:: </text>
+<text x="35" y="386.2" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">    ...:--:--::::::.. ...                                  ...  ..:-:::-- </text>
+<text x="35" y="392.0" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">   ....:--:=-::::::.. ....                                 ...  ..-::::-- </text>
+<text x="35" y="397.8" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">   ....::-:==:--:::........                                 ... ..-:-----.</text>
+<text x="35" y="403.6" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">   ....::--=+---:::........                                 ... ..:------.</text>
+<text x="35" y="409.4" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">   ....::=-=#=-::::........                                 .....:-:-----.</text>
+<text x="35" y="415.2" xml:space="preserve" textLength="380" lengthAdjust="spacing" font-size="6.6" fill="#ced7df">  .....::==+%+-::::........                                  ....=-:-----:</text>
+<text x="28" y="450" font-size="11" fill="#a6b3c2">Heilbronn, Germany · CET/CEST</text>
+<g class="intro">
+<text x="485" y="82" font-size="12" fill="#79cdb8">$ whoami</text>
+<text x="485" y="121" font-size="26" font-weight="700" fill="#e6edf3">Bhavesh Jain</text>
+<text x="485" y="149" font-size="16" fill="#e6edf3">Data Scientist</text>
+<text x="485" y="178" font-size="13" fill="#a6b3c2">Team Lead Data &amp; Development</text>
+<text x="485" y="199" font-size="13" fill="#a6b3c2">Joint Innovation Hub · Fraunhofer ISI</text>
+<path d="M485 220H965" stroke="#27323e"/>
+<text x="485" y="251" font-size="12" fill="#79cdb8">$ focus --current</text>
+<text x="485" y="279" font-size="15" fill="#e6edf3">GenAI · Multi-agent systems</text>
+<text x="485" y="303" font-size="15" fill="#e6edf3">Strategic foresight · AI evaluation</text>
+<text x="485" y="338" font-size="12" fill="#79cdb8">$ learning</text>
+<text x="485" y="364" font-size="13" fill="#a6b3c2">Agentic systems · AI product management</text>
+<text x="485" y="385" font-size="13" fill="#a6b3c2">AI project management · Context engineering</text>
+<path d="M485 406H965" stroke="#27323e"/>
+<text x="485" y="435" font-size="13" fill="#e6edf3">bhaveshjain.com</text>
+<text x="485" y="459" font-size="13" fill="#79cdb8">hello@bhaveshjain.com</text>
+<rect class="cursor" x="684" y="449" width="7" height="12" fill="#79cdb8"/>
+</g>
+</svg>

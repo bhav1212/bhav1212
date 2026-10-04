@@ -1,0 +1,35 @@
+name: Refresh profile activity
+
+on:
+  schedule:
+    - cron: '23 7 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate calendar from GitHub
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/update-activity.py
+      - name: Commit refreshed activity
+        run: |
+          git config user.name 'Bhavesh Jain'
+          git config user.email 'bhaveshjain1212@gmail.com'
+          git add assets/contribution-calendar.svg
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh GitHub contribution calendar'
+            git push
+          fi
