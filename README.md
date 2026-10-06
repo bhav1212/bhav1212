@@ -1,10 +1,3 @@
-<div align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/profile-terminal-mobile.svg" />
-    <img src="assets/profile-terminal.svg" width="100%" alt="Bhavesh Jain. Data Scientist and Team Lead Data & Development at the Joint Innovation Hub, Fraunhofer ISI. GenAI, multi-agent systems, and strategic foresight. Based in Heilbronn, Germany." />
-  </picture>
-</div>
-
 <h1 align="center">Hi, I'm Bhavesh Jain.</h1>
 <p align="center"><strong>Data Scientist · GenAI & Multi-Agent Systems · Strategic Foresight</strong></p>
 <p align="center">Turning research signals into tools that help people make decisions.</p>
