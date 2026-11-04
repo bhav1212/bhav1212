@@ -58,14 +58,6 @@ I write about the decisions around AI systems: what to build, how to evaluate it
 
 [Explore all writing →](https://blog.bhaveshjain.com/)
 
-## GitHub activity
-
-<a href="https://github.com/bhav1212?tab=overview">
-  <img src="assets/contribution-calendar.svg" width="100%" alt="GitHub contribution calendar for bhav1212. The snapshot date and GitHub-reported total are displayed in the image; the native profile graph below provides current activity." />
-</a>
-
-This is a weekly snapshot of GitHub-reported contributions. The native GitHub graph below shows current activity.
-
 ---
 
 **Let's build something useful.** [hello@bhaveshjain.com](mailto:hello@bhaveshjain.com) · [Résumé](https://bhaveshjain.com/resume.pdf) · [Fraunhofer profile](https://www.isi.fraunhofer.de/de/joint-innovation-hub/mitarbeiter/jain.html)
